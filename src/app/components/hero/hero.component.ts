@@ -62,7 +62,7 @@ export class HeroComponent {
       eyebrow: 'Développeur Full-Stack & Chargé de cours · Trois-Rivières, QC',
       subtitle: 'Mathématiques Appliquées & Informatique — UQTR',
       bio: 'Développeur passionné par l\'IA et l\'innovation numérique, spécialisé en Java / Spring Boot, Android et Machine Learning embarqué. Enseignant à l\'UQTR, auteur d\'une thèse sur l\'automatisation de la documentation médicale par modèles ML.',
-      badges: ['Java / Spring Boot', 'Angular', 'Android', 'Machine Learning', 'PHP (6 ans)'],
+      badges: ['Java / Spring Boot', 'Angular', 'Android', 'Machine Learning', 'PHP (4 ans)'],
       btnProjects: 'Voir mes projets',
       btnContact: 'Me contacter'
     },
