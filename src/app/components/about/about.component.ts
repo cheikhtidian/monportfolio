@@ -73,7 +73,7 @@ export class AboutComponent {
         { label: 'Education', value: 'M.Sc. Applied Mathematics & CS — UQTR' },
         { label: 'Current position', value: 'Lecturer — UQTR (SIF1033, INF1034, PRO1026, INF1001, INF1013)' },
         { label: 'Availability', value: 'Open to opportunities — full time' },
-        { label: 'PHP experience', value: 'Since 2020 (~6 years)' },
+        { label: 'PHP experience', value: 'Since 2020 (~4 years)' },
         { label: 'Languages', value: 'French · English · Wolof' }
       ]
     }
